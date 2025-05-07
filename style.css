@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.cl{
+    margin-top: 20;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    
+}
+.img1{
+    height: 100px;
+    width: 100px;
+}
